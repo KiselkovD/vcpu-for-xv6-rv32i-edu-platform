@@ -1,0 +1,6 @@
+[submodule "vcpu"]
+	path = vcpu
+	url = git@github.com:KiselkovD/vcpu.git
+[submodule "xv6-rvi32"]
+	path = xv6-rvi32
+	url = git@github.com:KiselkovD/xv6-rvi32.git
